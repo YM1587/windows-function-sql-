@@ -1,0 +1,131 @@
+Sub_region,Country_name,Land_area
+"Central Asia",Kazakhstan,2699700.00
+"Central Asia",Tajikistan,138790.00
+"Central Asia",Turkmenistan,469930.00
+"Central Asia",Uzbekistan,440650.00
+"Southern Asia",Afghanistan,652230.00
+"Southern Asia",Bangladesh,130170.00
+"Southern Asia",Bhutan,38140.00
+"Southern Asia",India,2973190.00
+"Southern Asia",Maldives,300.00
+"Southern Asia",Nepal,143350.00
+"Southern Asia",Pakistan,770880.00
+"Southern Asia","Sri Lanka",61860.00
+"Eastern Asia",China,9424702.90
+"Eastern Asia",Japan,364500.00
+"Eastern Asia",Mongolia,1557506.80
+"South-Eastern Asia","Brunei Darussalam",5270.00
+"South-Eastern Asia",Cambodia,176520.00
+"South-Eastern Asia",Indonesia,1877519.00
+"South-Eastern Asia",Malaysia,328550.00
+"South-Eastern Asia",Myanmar,652670.00
+"South-Eastern Asia",Philippines,298170.00
+"South-Eastern Asia",Singapore,718.00
+"South-Eastern Asia",Thailand,510890.00
+"South-Eastern Asia",Timor-Leste,14870.00
+"Northern America",Bermuda,54.00
+"Northern America",Canada,8965590.00
+"Northern America",Greenland,410450.00
+Caribbean,Barbados,430.00
+Caribbean,"British Virgin Islands",150.00
+Caribbean,Cuba,103800.00
+Caribbean,"Dominican Republic",48310.00
+Caribbean,Haiti,27560.00
+Caribbean,Jamaica,10830.00
+Caribbean,"Puerto Rico",8870.00
+Caribbean,"Trinidad and Tobago",5130.00
+"Central America",Belize,22810.00
+"Central America","Costa Rica",51060.00
+"Central America","El Salvador",20720.00
+"Central America",Guatemala,107160.00
+"Central America",Honduras,111890.00
+"Central America",Mexico,1943950.00
+"Central America",Nicaragua,120340.00
+"Central America",Panama,74180.00
+"South America",Argentina,2736690.00
+"South America",Brazil,8358140.00
+"South America",Chile,743532.00
+"South America",Colombia,1109500.00
+"South America",Ecuador,248360.00
+"South America",Guyana,196850.00
+"South America",Paraguay,397300.00
+"South America",Peru,1280000.00
+"South America",Suriname,156000.00
+"South America",Uruguay,175020.00
+"Northern Africa",Algeria,2381741.00
+"Northern Africa",Libya,1759540.00
+"Northern Africa",Morocco,446300.00
+"Northern Africa",Sudan,1868000.00
+"Northern Africa",Tunisia,155360.00
+"Western Asia",Armenia,28470.00
+"Western Asia",Azerbaijan,82646.00
+"Western Asia",Bahrain,785.00
+"Western Asia",Cyprus,9240.00
+"Western Asia",Georgia,69490.00
+"Western Asia",Iraq,434128.00
+"Western Asia",Israel,21640.00
+"Western Asia",Jordan,88794.00
+"Western Asia",Kuwait,17820.00
+"Western Asia",Lebanon,10230.00
+"Western Asia",Oman,309500.00
+"Western Asia",Qatar,11490.00
+"Western Asia","Saudi Arabia",2149690.00
+"Western Asia","Syrian Arab Republic",183630.00
+"Western Asia","United Arab Emirates",71020.00
+"Australia and New Zealand",Australia,7692020.00
+"Australia and New Zealand","New Zealand",263310.00
+Melanesia,Fiji,18270.00
+Melanesia,"New Caledonia",18280.00
+Melanesia,"Papua New Guinea",452860.00
+Melanesia,"Solomon Islands",27990.00
+Melanesia,Vanuatu,12190.00
+Micronesia,Guam,540.00
+Micronesia,Kiribati,810.00
+Micronesia,"Marshall Islands",180.00
+Micronesia,Nauru,20.00
+Micronesia,"Northern Mariana Islands",460.00
+Micronesia,Palau,460.00
+Polynesia,"American Samoa",200.00
+Polynesia,"French Polynesia",3471.00
+Polynesia,Samoa,2780.00
+Polynesia,Tonga,720.00
+Polynesia,Tuvalu,30.00
+"Eastern Africa",Burundi,25680.00
+"Eastern Africa",Djibouti,23180.00
+"Eastern Africa",Ethiopia,1128571.26
+"Eastern Africa",Kenya,569140.00
+"Eastern Africa",Madagascar,581800.00
+"Eastern Africa",Malawi,94280.00
+"Eastern Africa",Mauritius,2030.00
+"Eastern Africa",Mozambique,786380.00
+"Eastern Africa",Rwanda,24670.00
+"Eastern Africa",Somalia,627340.00
+"Eastern Africa","South Sudan",631930.00
+"Eastern Africa",Uganda,200520.00
+"Eastern Africa",Zambia,743390.00
+"Eastern Africa",Zimbabwe,386850.00
+"Middle Africa",Angola,1246700.00
+"Middle Africa",Cameroon,472710.00
+"Middle Africa","Central African Republic",622980.00
+"Middle Africa",Chad,1259200.00
+"Middle Africa",Gabon,257670.00
+"Middle Africa","Sao Tome and Principe",960.00
+"Southern Africa",Botswana,566730.00
+"Southern Africa",Eswatini,17200.00
+"Southern Africa",Lesotho,30360.00
+"Southern Africa",Namibia,823290.00
+"Southern Africa","South Africa",1213090.00
+"Western Africa",Benin,112760.00
+"Western Africa","Burkina Faso",273600.00
+"Western Africa","Cabo Verde",4030.00
+"Western Africa",Ghana,227533.00
+"Western Africa",Guinea,245720.00
+"Western Africa",Guinea-Bissau,28120.00
+"Western Africa",Liberia,96320.00
+"Western Africa",Mali,1220190.00
+"Western Africa",Mauritania,1030700.00
+"Western Africa",Niger,1266700.00
+"Western Africa",Nigeria,910770.00
+"Western Africa",Senegal,192530.00
+"Western Africa","Sierra Leone",72180.00
+"Western Africa",Togo,54390.00
